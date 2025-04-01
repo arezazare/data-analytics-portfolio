@@ -8,25 +8,25 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ### 1. 🧠 Brain Tumor Type Prediction
 Classify brain tumors using MRI scans and deep learning techniques.
-🔗 [View Project Repository](https://github.com/arezazare/brain_tumor_prediction)
+🔗 [View Project Repository](https://github.com/arezazare/brain-tumor-prediction)
 
 ---
 
 ### 2. 💼 Salaries Prediction
 Predict public employee salaries using regression models and feature engineering.
-🔗 [View Project Repository](https://github.com/arezazare/salaries_prediction)
+🔗 [View Project Repository](https://github.com/arezazare/salaries-prediction)
 
 ---
 
 ### 3. 🧬 Breast Cancer Prediction
 Analyze diagnostic data to predict malignant vs benign tumor types.
-🔗 [View Project Repository](https://github.com/arezazare/breast_cancer_prediction)
+🔗 [View Project Repository](https://github.com/arezazare/breast-cancer-prediction)
 
 ---
 
 ### 4. 🚢 Titanic Survival Prediction
 Build classification models to predict survival on the Titanic.
-🔗 [View Project Repository](https://github.com/arezazare/titanic_survival_prediction)
+🔗 [View Project Repository](https://github.com/arezazare/titanic-survival-prediction)
 
 ---
 
