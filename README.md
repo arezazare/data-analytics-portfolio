@@ -2,9 +2,17 @@
 
 Welcome to my data analytics portfolio! This repository showcases a collection of end-to-end projects demonstrating my skills in data cleaning, EDA, machine learning, and data visualization.
 
+
+## 🏆 Kaggle Competitions
+
+### 1. 🔢 MNIST Digit Recognizer (98.84% Accuracy)
+Classify handwritten digits using deep learning (CNN + Data Augmentation + Learning Rate Scheduling).
+🔗 [View Project Repository](https://github.com/arezazare/kaggle-mnist-digit-recognizer)
+🔗 [Kaggle Competition Page](https://www.kaggle.com/c/digit-recognizer)
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured ML Projects
 
 ### 1. 🧠 Brain Tumor Type Prediction
 Classify brain tumors using MRI scans and deep learning techniques.
