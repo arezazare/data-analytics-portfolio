@@ -2,11 +2,41 @@
 
 Welcome to my data analytics portfolio! This repository showcases a collection of end-to-end projects demonstrating my skills in data cleaning, EDA, machine learning, and data visualization.
 
+---
 
 ## 🏆 Kaggle Competitions
 
-### 1. 🔢 MNIST Digit Recognizer (98.84% Accuracy)
-Classify handwritten digits using deep learning (CNN + Data Augmentation + Learning Rate Scheduling).
+### 1. 🏡 Kaggle House Prices – Dual Track Submission (Ridge + XGBoost Blend)
+Predict house sale prices using log-transformed regression modeling. Supports both Advanced Regression Techniques and Kaggle Learn Users competitions.
+🔗 [View Project Repository](https://github.com/arezazare/kaggle-house-prices-prediction_dual_track)
+🔗 [Kaggle Advanced Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+🔗 [Kaggle Learn Users Competition](https://www.kaggle.com/competitions/home-data-for-ml-course)
+
+🎯 **Scores (First Try):**  
+- Advanced Regression Techniques: `0.12885` RMSE — **Rank: 1130 / 4711**  
+- Kaggle Learn Users: `14556.14` RMSE — **Rank: 525 / 6639**
+
+---
+
+### 2. 🛸 Spaceship Titanic – Classification
+Predict passenger transport status using engineered features and tuned models (classification).
+🔗 [View Project Repository](https://github.com/arezazare/kaggle-spaceship-survival-prediction)
+🔗 [Kaggle Competition Page](https://www.kaggle.com/competitions/spaceship-titanic)
+
+🎯 **Final Score:** `0.80383` Accuracy  
+🏆 **Rank:** 353 / 2202 Teams
+
+---
+
+### 3. 🚢 Titanic - Machine Learning from Disaster
+Binary classification of Titanic passengers using logistic regression, tree-based models, and hyperparameter tuning.
+🔗 [View Project Repository](https://github.com/arezazare/kaggle-titanic-survival-prediction)
+🔗 [Kaggle Competition Page](https://www.kaggle.com/competitions/titanic)
+
+---
+
+### 4. 🔢 MNIST Digit Recognizer (98.84% Accuracy)
+Classify handwritten digits using CNN, data augmentation, and learning rate scheduling.
 🔗 [View Project Repository](https://github.com/arezazare/kaggle-mnist-digit-recognizer)
 🔗 [Kaggle Competition Page](https://www.kaggle.com/c/digit-recognizer)
 
@@ -32,9 +62,15 @@ Analyze diagnostic data to predict malignant vs benign tumor types.
 
 ---
 
-### 4. 🚢 Titanic Survival Prediction
-Build classification models to predict survival on the Titanic.
-🔗 [View Project Repository](https://github.com/arezazare/titanic-survival-prediction)
+### 4. 🏅 Olympics Country Clustering
+Cluster countries by Olympic medal performance using KMeans, DBSCAN, and hierarchical clustering.
+🔗 [View Project Repository](https://github.com/arezazare/olympics-country-clustering)
+
+---
+
+### 5. 🧠 Cortical Thickness Estimation
+Estimate cortical thickness from T1-weighted MRI scans using image processing and segmentation.
+🔗 [View Project Repository](https://github.com/arezazare/cortical-thickness-estimation)
 
 ---
 
@@ -42,8 +78,8 @@ Build classification models to predict survival on the Titanic.
 
 Each project includes:
 - A detailed `README.md` with project description and dataset source
-- Jupyter Notebooks with full analysis and modeling
-- Clean folder structure for data, notebooks, and results
+- Jupyter Notebooks or scripts for full analysis and modeling
+- Clean folder structure for data, models, and results
 
 ---
 
@@ -53,3 +89,4 @@ Each project includes:
 - 📧 [ahmad.r.zarre@gmail.com](mailto:ahmad.r.zarre@gmail.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arezazare/)  
 - 🧠 [Personal Website](https://arezazare.github.io)
+
