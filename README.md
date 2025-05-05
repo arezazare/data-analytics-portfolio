@@ -74,6 +74,14 @@ Estimate cortical thickness from T1-weighted MRI scans using image processing an
 
 ---
 
+### 6. 📈 Stock Price Forecasting (LSTM, Ridge, ARIMA)
+
+Forecast stock prices for AAPL, GOOG, MSFT, and AMZN using time series modeling and regression.
+Includes LSTM, ARIMA, and Ridge tuning with feature engineering (Lag, SMA, Daily Returns).
+🔗 [View Project Repository](https://github.com/arezazare/stock-price-forecasting)
+
+---
+
 ## 📂 About This Portfolio
 
 Each project includes:
