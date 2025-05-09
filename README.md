@@ -82,6 +82,15 @@ Includes LSTM, ARIMA, and Ridge tuning with feature engineering (Lag, SMA, Daily
 
 ---
 
+### 7. 📢 SMS Spam Detection with NLP + ML (99.89% F1)
+End-to-end NLP classification pipeline for detecting spam messages using CountVectorizer, TF-IDF, SMOTE, and Logistic Regression.
+- Includes meta-feature engineering (exclamations, digits, links, capitalization)
+- Shows before/after word clouds and deployment demo script
+
+🔗 [View Project Repository](https://github.com/arezazare/sms-spam-detection)
+
+---
+
 ## 📂 About This Portfolio
 
 Each project includes:
