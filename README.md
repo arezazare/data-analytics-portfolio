@@ -87,7 +87,7 @@ End-to-end NLP classification pipeline for detecting spam messages using CountVe
 - Includes meta-feature engineering (exclamations, digits, links, capitalization)
 - Shows before/after word clouds and deployment demo script
 
-🔗 [View Project Repository](https://github.com/arezazare/sms-spam-detection)
+🔗 [View Project Repository](https://github.com/arezazare/nlp-sms-spam-detector)
 
 ---
 
