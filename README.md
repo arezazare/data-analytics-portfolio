@@ -91,6 +91,19 @@ End-to-end NLP classification pipeline for detecting spam messages using CountVe
 
 ---
 
+### 8. 🎬 Movie Recommender & Clustering with NLP
+
+Build a hybrid movie recommender system and an unsupervised clustering model using TF-IDF, cosine similarity, and K-Means. Includes business-ready functions, 3D visualizations, and cluster interpretation.
+
+- Hybrid movie recommendation using `title + genre` text
+- TF-IDF vectorization + TruncatedSVD + KMeans clustering
+- 3D visualization with Plotly
+- Cluster-based recommendations & business segmentation
+
+🔗 [View Project Repository](https://github.com/arezazare/movie-recommender-clustering-nlp)
+
+---
+
 ## 📂 About This Portfolio
 
 Each project includes:
