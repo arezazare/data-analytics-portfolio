@@ -1,122 +1,76 @@
-# 📊 Reza Zare – Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! This repository showcases a collection of end-to-end projects demonstrating my skills in data cleaning, EDA, machine learning, and data visualization.
+Welcome to my data analytics portfolio — a curated collection of end-to-end projects demonstrating my expertise in data cleaning, EDA, feature engineering, machine learning, deep learning, NLP, SQL, and full-stack development.
+
+Each project showcases practical data science applications with clear goals, tools used, and business relevance. 🔍💡
 
 ---
 
 ## 🏆 Kaggle Competitions
-
-### 1. 🏡 Kaggle House Prices – Dual Track Submission (Ridge + XGBoost Blend)
-Predict house sale prices using log-transformed regression modeling. Supports both Advanced Regression Techniques and Kaggle Learn Users competitions.
-🔗 [View Project Repository](https://github.com/arezazare/kaggle-house-prices-prediction_dual_track)
-🔗 [Kaggle Advanced Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
-🔗 [Kaggle Learn Users Competition](https://www.kaggle.com/competitions/home-data-for-ml-course)
-
-🎯 **Scores (First Try):**  
-- Advanced Regression Techniques: `0.12885` RMSE — **Rank: 1130 / 4711**  
-- Kaggle Learn Users: `14556.14` RMSE — **Rank: 525 / 6639**
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [🏡 House Prices Regression](https://github.com/arezazare/kaggle-house-prices-prediction_dual_track) | Dual-track (Advanced & Learn) regression solution with log-transformations, feature engineering, and ensemble models | `XGBoost`, `LightGBM`, `GridSearchCV` |
+| [🪐 Spaceship Titanic Survival](https://github.com/arezazare/kaggle-spaceship-survival-prediction) | Classification with advanced feature engineering, imputation, modeling, and final submission logic | `RandomForest`, `Pipelines`, `Deployment` |
+| [🧪 Playground Series](https://github.com/arezazare/kaggle-playground-series-competition) | Monthly challenges with blending, log-target regressions, and outlier handling | `Ensemble`, `Log-Target`, `RMSLE` |
+| [🚢 Titanic Survival Prediction](https://github.com/arezazare/kaggle-titanic-survival-prediction) | Classic binary classification with preprocessing and modeling | `LogisticRegression`, `SVM`, `Accuracy` |
+| [🔢 MNIST Digit Recognizer](https://github.com/arezazare/kaggle-mnist-digit-recognizer) | CNN-based image classifier achieving 98.84% accuracy on Kaggle leaderboard | `Keras`, `CNN`, `ImageDataGenerator` |
 
 ---
 
-### 2. 🛸 Spaceship Titanic – Classification
-Predict passenger transport status using engineered features and tuned models (classification).
-🔗 [View Project Repository](https://github.com/arezazare/kaggle-spaceship-survival-prediction)
-🔗 [Kaggle Competition Page](https://www.kaggle.com/competitions/spaceship-titanic)
-
-🎯 **Final Score:** `0.80383` Accuracy  
-🏆 **Rank:** 353 / 2202 Teams
-
----
-
-### 3. 🚢 Titanic - Machine Learning from Disaster
-Binary classification of Titanic passengers using logistic regression, tree-based models, and hyperparameter tuning.
-🔗 [View Project Repository](https://github.com/arezazare/kaggle-titanic-survival-prediction)
-🔗 [Kaggle Competition Page](https://www.kaggle.com/competitions/titanic)
+## 🤖 Machine Learning Projects
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [💼 Salary Prediction](https://github.com/arezazare/salaries-prediction) | Regression project with IQR-based outlier handling and feature interpretation | `LinearRegression`, `EDA`, `Seaborn` |
+| [🎗️ Breast Cancer Prediction](https://github.com/arezazare/breast-cancer-prediction) | Classification of breast cancer with medical data and feature evaluation | `SVM`, `KNN`, `GridSearch` |
+| [🧠 Brain Tumor Prediction](https://github.com/arezazare/brain-tumor-prediction) | MRI-based image classification using ML techniques | `Scikit-learn`, `Pandas`, `Visualization` |
+| [🥇 Olympics Clustering](https://github.com/arezazare/olympics-country-clustering) | Unsupervised clustering of countries based on medal performance | `KMeans`, `PCA`, `DBSCAN` |
 
 ---
 
-### 4. 🔢 MNIST Digit Recognizer (98.84% Accuracy)
-Classify handwritten digits using CNN, data augmentation, and learning rate scheduling.
-🔗 [View Project Repository](https://github.com/arezazare/kaggle-mnist-digit-recognizer)
-🔗 [Kaggle Competition Page](https://www.kaggle.com/c/digit-recognizer)
+## 📈 Time Series Forecasting
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [📉 Stock Price Forecasting](https://github.com/arezazare/stock-price-forecasting) | Predicting next-day prices using Ridge, ARIMA, and LSTM with custom features | `TimeSeries`, `LSTM`, `FeatureEngineering` |
 
 ---
 
-## 🚀 Featured ML Projects
-
-### 1. 🧠 Brain Tumor Type Prediction
-Classify brain tumors using MRI scans and deep learning techniques.
-🔗 [View Project Repository](https://github.com/arezazare/brain-tumor-prediction)
-
----
-
-### 2. 💼 Salaries Prediction
-Predict public employee salaries using regression models and feature engineering.
-🔗 [View Project Repository](https://github.com/arezazare/salaries-prediction)
+## 💬 Natural Language Processing (NLP)
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [🎬 Movie Recommender + Clustering](https://github.com/arezazare/movie-recommender-clustering-nlp) | Hybrid content-based recommender using TF-IDF and KMeans | `TF-IDF`, `CosineSimilarity`, `Clustering` |
+| [📩 SMS Spam Detector](https://github.com/arezazare/nlp-sms-spam-detector) | Text classification with metadata and vectorization — 99.89% accuracy | `CountVectorizer`, `LogisticRegression`, `F1 Score` |
 
 ---
 
-### 3. 🧬 Breast Cancer Prediction
-Analyze diagnostic data to predict malignant vs benign tumor types.
-🔗 [View Project Repository](https://github.com/arezazare/breast-cancer-prediction)
+## 🧠 Deep Learning Projects
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [🧮 MNIST Digit Recognition](https://github.com/arezazare/kaggle-mnist-digit-recognizer) | CNN-based model for handwritten digit classification | `CNN`, `Keras`, `Dropout` |
+| [🧬 Cortical Thickness Estimation](https://github.com/arezazare/cortical-thickness-estimation) | Brain imaging project using segmentation and distance mapping | `NumPy`, `Segmentation`, `MRI` |
 
 ---
 
-### 4. 🏅 Olympics Country Clustering
-Cluster countries by Olympic medal performance using KMeans, DBSCAN, and hierarchical clustering.
-🔗 [View Project Repository](https://github.com/arezazare/olympics-country-clustering)
+## 🧮 SQL Projects
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [📊 SQL Data Exploration](https://github.com/arezazare/sql-data-exploration-portfolio) | Cleaning, joining, and exploring structured data with advanced SQL | `Joins`, `CTEs`, `Window Functions` |
 
 ---
 
-### 5. 🧠 Cortical Thickness Estimation
-Estimate cortical thickness from T1-weighted MRI scans using image processing and segmentation.
-🔗 [View Project Repository](https://github.com/arezazare/cortical-thickness-estimation)
+## 🌐 Full-Stack & System Projects
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🌍 Portfolio Website](https://github.com/arezazare/arezazare.github.io) | Personal website showcasing my profile and projects | `HTML`, `CSS`, `Bootstrap`, `Custom Design` |
+| [📚 Learning Platform](https://github.com/arezazare/full-stack-online-learning-platform) | Full-stack e-learning site with user/admin panels and article system | `Laravel`, `PHP`, `MySQL` |
+| [👤 User Management System](https://github.com/arezazare/user-management-system) | Python app with login, to-do list, games, and modular menus | `Python`, `OOP`, `Authentication` |
 
 ---
 
-### 6. 📈 Stock Price Forecasting (LSTM, Ridge, ARIMA)
+## 🙋‍♂️ Author
 
-Forecast stock prices for AAPL, GOOG, MSFT, and AMZN using time series modeling and regression.
-Includes LSTM, ARIMA, and Ridge tuning with feature engineering (Lag, SMA, Daily Returns).
-🔗 [View Project Repository](https://github.com/arezazare/stock-price-forecasting)
-
----
-
-### 7. 📢 SMS Spam Detection with NLP + ML (99.89% F1)
-End-to-end NLP classification pipeline for detecting spam messages using CountVectorizer, TF-IDF, SMOTE, and Logistic Regression.
-- Includes meta-feature engineering (exclamations, digits, links, capitalization)
-- Shows before/after word clouds and deployment demo script
-
-🔗 [View Project Repository](https://github.com/arezazare/nlp-sms-spam-detector)
+**Reza Zare**  
+🔗 [Portfolio Website](https://arezazare.github.io) | [GitHub](https://github.com/arezazare) | [Kaggle](https://www.kaggle.com/arezazare) | [LinkedIn](https://www.linkedin.com/in/arezazare)
 
 ---
 
-### 8. 🎬 Movie Recommender & Clustering with NLP
-
-Build a hybrid movie recommender system and an unsupervised clustering model using TF-IDF, cosine similarity, and K-Means. Includes business-ready functions, 3D visualizations, and cluster interpretation.
-
-- Hybrid movie recommendation using `title + genre` text
-- TF-IDF vectorization + TruncatedSVD + KMeans clustering
-- 3D visualization with Plotly
-- Cluster-based recommendations & business segmentation
-
-🔗 [View Project Repository](https://github.com/arezazare/movie-recommender-clustering-nlp)
-
----
-
-## 📂 About This Portfolio
-
-Each project includes:
-- A detailed `README.md` with project description and dataset source
-- Jupyter Notebooks or scripts for full analysis and modeling
-- Clean folder structure for data, models, and results
-
----
-
-## 📫 Contact
-
-- 📍 Montreal, QC  
-- 📧 [ahmad.r.zarre@gmail.com](mailto:ahmad.r.zarre@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/arezazare/)  
-- 🧠 [Personal Website](https://arezazare.github.io)
-
+*This portfolio is actively maintained. For any collaboration or freelance inquiries, feel free to reach out!*
