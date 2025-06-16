@@ -20,10 +20,8 @@ Each project showcases practical data science applications with clear goals, too
 ## 🤖 Machine Learning Projects
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [💼 Salary Prediction](https://github.com/arezazare/salaries-prediction) | Regression project with IQR-based outlier handling and feature interpretation | `LinearRegression`, `EDA`, `Seaborn` |
 | [🎗️ Breast Cancer Prediction](https://github.com/arezazare/breast-cancer-prediction) | Classification of breast cancer with medical data and feature evaluation | `SVM`, `KNN`, `GridSearch` |
 | [🧠 Brain Tumor Prediction](https://github.com/arezazare/brain-tumor-prediction) | MRI-based image classification using ML techniques | `Scikit-learn`, `Pandas`, `Visualization` |
-| [🥇 Olympics Clustering](https://github.com/arezazare/olympics-country-clustering) | Unsupervised clustering of countries based on medal performance | `KMeans`, `PCA`, `DBSCAN` |
 
 ---
 
